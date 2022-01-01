@@ -1,6 +1,4 @@
-========================================================================
-    WIN32 APPLICATION : G.4 Project Overview
-========================================================================
+#    WIN32 APPLICATION : G.4 Project Overview
 
 AppWizard has created this G.4 application for you.
 
@@ -52,12 +50,6 @@ Other standard files:
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
     named G.4.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
 
 ## 👇 Author
 <p>
